@@ -5,7 +5,7 @@
 需先安装ImageMagick
 
 ```
-brew install 
+brew install imagemagick
 ```
 
 **原图**
